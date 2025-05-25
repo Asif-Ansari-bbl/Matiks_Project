@@ -51,3 +51,5 @@ Column Name	Data Type	Description
 
   🆔 Identifiers: User_ID, Username, Email
 
+![image](https://github.com/user-attachments/assets/4bb988fb-4443-4611-be47-2fb7dbe8fc5e)
+
