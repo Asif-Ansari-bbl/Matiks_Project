@@ -41,3 +41,13 @@ Column Name	Data Type	Description
   19. Rank_Tier	:	Skill rank or tier (e.g., Bronze, Silver, Diamond)
   20. Achievement_Score	Integer	User's total score from achievements
 
+
+🧠 Variable Types
+  🧾 Categorical: Gender, Country, Device_Type, Subscription_Tier, Referral_Source, Preferred_Game_Mode, Rank_Tier
+
+  🔢 Numerical: Age, Total_Play_Sessions, Avg_Session_Duration_Min, Total_Hours_Played, In_Game_Purchases_Count, Total_Revenue_USD, Achievement_Score
+
+  🗓️ Date/Time: Signup_Date, Last_Login
+
+  🆔 Identifiers: User_ID, Username, Email
+
